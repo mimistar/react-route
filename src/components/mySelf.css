@@ -1,0 +1,26 @@
+.mySelf-box{
+    border: 1px solid #c7c7c7;
+    height: 100%;
+    margin: 30px;
+}
+.mySelf-box h5{
+    margin: 0;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #d8d8d8;
+    padding:10px 0px;
+}
+.mySelf-content{
+    padding:0 15px;
+}
+.mySelf-content h1{
+    border-bottom: 1px solid #d8d8d8;
+    margin: 0;
+    padding: 15px 5px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+.mySelf-content p{
+    text-align: left;
+    padding-top: 20px;
+}
